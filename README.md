@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tassamoo
-- 👀 I’m interested in Python Programming Language in General
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently studying Data Analysis and Analytics
 - 💞️ I’m looking to collaborate on Data related projects
 - 📫 How to reach me: just send me email on tassamu@gmail.com
