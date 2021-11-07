@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tassamoo
-- 👀 I’m interested in learning how to learn
+- 👀 I’m interested in acquiring useful knowledge
 - 🌱 I’m currently studying Web Development
 - 💞️ I’m looking to collaborate on any project that offer me knowledge and opportunity
 - 📫 How to reach me: just send me email on tassamu@gmail.com
