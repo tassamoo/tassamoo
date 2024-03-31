@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tassamoo
 - 👀 I’m interested in acquiring useful knowledge
-- 🌱 I’m currently studying Data Analytics 
+- 🌱 I’m currently studying Cloud Computing 
 - 💞️ I’m looking to collaborate on any project that offer me knowledge and opportunity
 - 📫 How to reach me: just send me email on tassamu@gmail.com
 
